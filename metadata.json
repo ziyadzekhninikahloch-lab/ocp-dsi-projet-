@@ -1,0 +1,6 @@
+{
+  "name": "OCP AI Project Auditor",
+  "description": "Enterprise AI project auditing and resource planning dashboard for OCP DSI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
